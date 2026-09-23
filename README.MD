@@ -17,3 +17,7 @@ O sistema solicita ao usuário as informações de um vinho (nome, tipo, safra e
 ## Link para acessar a página 
 
 https://fcrociatti.github.io/vinharia-agnello/
+
+## Realizado por 
+
+Fernando Crociatti de Toledo - RM 574258
